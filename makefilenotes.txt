@@ -1,0 +1,10 @@
+in second line the space at beginning is tab space(not normal space)
+output when @ is not used in line 2 is 	echo "hello world"
+hello world
+output when @ is not used in line 2 is
+hello world
+
+when file name is not makefile
+
+the following should be done to execute it
+make -f filename
